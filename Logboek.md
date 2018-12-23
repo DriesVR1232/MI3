@@ -13,26 +13,25 @@
   - Registratie, login pagina aanmaken. 3u
   -php file, javascript files aannmaken en linken -1u
 # Week5
-  -Registratie afwerken, foutmeldingen maken -15u
-  -Login pagina zorgen dat admin en gewone gebruiker andere login hadden en andere paginaverwijzing -2u
+  - Registratie afwerken, foutmeldingen maken -15u
+  - Login pagina zorgen dat admin en gewone gebruiker andere login hadden en andere paginaverwijzing -2u
 # Week6
-  -Ingelogde pagina maken voor gebruiker -2u
-  -Persoonlijke info pagina maken voor gebruiker -5u
-  -Calendar inplementeren voor reservatie
+  - Ingelogde pagina maken voor gebruiker -2u
+  - Persoonlijke info pagina maken voor gebruiker -5u
+  - Calendar inplementeren voor reservatie
 # Week7
-  -Persoonlijke info pagina afwerken voor gebruiker en fout oplossen -3u
-  -Reservatie pagina vervolledigen(JS en PHP beginnen) -3u
+  - Persoonlijke info pagina afwerken voor gebruiker en fout oplossen -3u
+  - Reservatie pagina vervolledigen(JS en PHP beginnen) -3u
 # Week8
-  -Reservatie PHP en JS verderwerken -15u
-  -Realiseren dat het anders kan en makkelijker dus de pagina + database aanpassen en opnieuw beginnen met JS en PHP -2u
+  - Reservatie PHP en JS verderwerken -15u
+  - Realiseren dat het anders kan en makkelijker dus de pagina + database aanpassen en opnieuw beginnen met JS en PHP -2u
 # Week9
-  -Verderwerken reservatie en testen -5u
-  -Pagina om persoonlijke reservaties te zien aanmaken -1u 
+  - Verderwerken reservatie en testen -5u
+  - Pagina om persoonlijke reservaties te zien aanmaken -1u 
 # Week10
-  -Persoonelijke reservaties zien(plus mogelijkheid ze te verwijderen) afwerken -6u
-  -Persoonlijke info kunnen veranderen -3u
+  - Persoonelijke reservaties zien(plus mogelijkheid ze te verwijderen) afwerken -6u
+  - Persoonlijke info kunnen veranderen -3u
 # Week11
-  -Aanmaken admin pagina's(users zien, users blokkeren, users verwijderen, reservaties zien en verwijderen) -3u
-  -Afwerken Users zien, blokkeren/de-blokkeren, verwijderen, reservaties zien -15u
+  - Aanmaken admin pagina's(users zien, users blokkeren, users verwijderen, reservaties zien en verwijderen) -3u
+  - Afwerken Users zien, blokkeren/de-blokkeren, verwijderen, reservaties zien -15u
 # Week12
-
