@@ -18,7 +18,7 @@
 # Week6
   - Ingelogde pagina maken voor gebruiker -2u
   - Persoonlijke info pagina maken voor gebruiker -5u
-  - Calendar inplementeren voor reservatie
+  - Calendar inplementeren voor reservatie -1
 # Week7
   - Persoonlijke info pagina afwerken voor gebruiker en fout oplossen -3u
   - Reservatie pagina vervolledigen(JS en PHP beginnen) -3u
@@ -35,3 +35,8 @@
   - Aanmaken admin pagina's(users zien, users blokkeren, users verwijderen, reservaties zien en verwijderen) -3u
   - Afwerken Users zien, blokkeren/de-blokkeren, verwijderen, reservaties zien -15u
 # Week12
+  - Foto's implementeren op startpagina's en foutmeldingen invoegen -2u
+  - Bestelling optimaliseren -5u
+  
+# Totaal: 113u
+
